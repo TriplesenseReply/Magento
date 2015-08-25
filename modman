@@ -1,0 +1,15 @@
+# code files
+app/code/community/Dotpay/ app/code/community/Dotpay/
+
+# design files
+app/design/frontend/base/default/template/dotpay/ app/design/frontend/base/default/template/dotpay/
+skin/frontend/base/default/images/dotpay/ skin/frontend/base/default/images/dotpay/
+
+# locale files
+app/locale/pl_PL/Dotpay_Dotpay.csv app/locale/pl_PL/Dotpay_Dotpay.csv
+
+# lib files
+lib/Dotpay/ lib/Dotpay/
+
+# enable module
+app/etc/modules/Dotpay_Dotpay.xml app/etc/modules/Dotpay_Dotpay.xml
