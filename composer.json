@@ -1,0 +1,6 @@
+{
+  "name":        "dotpay/magento",
+  "description": "provide 'Dotpay' as a Magento payment method",
+  "type":        "magento-module",
+  "require": {}
+}
